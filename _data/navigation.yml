@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: /year-archive/
+    url: /recent_posts/
   # - title: "Quick-START Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
